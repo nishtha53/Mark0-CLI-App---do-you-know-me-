@@ -10,3 +10,4 @@ I Have created CLI app to know how much friends know me.
 I have Created this project with following technologies:
 - Javascript
 - Nodejs
+- Chalk Library for decoration
